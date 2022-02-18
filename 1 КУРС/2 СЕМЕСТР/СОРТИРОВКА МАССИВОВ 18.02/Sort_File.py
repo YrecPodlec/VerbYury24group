@@ -16,5 +16,5 @@ def chan(r):
                 break
             else:
                 continue
-chan(i)
-print(i)
+chan(must)
+print(must)
