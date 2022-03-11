@@ -1,6 +1,4 @@
-i = input('Введите путь к файлу: ')
-with open(i, 'r') as file:
-    must = [int(row) for row in file]
+i = [9, 8, 7, 6, 5, 4, 3, 2, 1]
 n = len(i)
 def chan(r):
     swag = True
