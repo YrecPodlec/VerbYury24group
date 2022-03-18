@@ -1,0 +1,1 @@
+a = input('Введите числа: ').split(); print(len(list(filter(lambda x: x % 3 == 0, map(int, a)))))
