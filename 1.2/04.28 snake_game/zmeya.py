@@ -6,7 +6,7 @@ pygame.init()
 bg_menu = pygame.image.load('menu_back.jpg')
 black = (0, 0, 0)
 white = (255, 255, 255)
-snake = (0, 0, 0)
+snake = (255, 0, 0)
 width = 700
 height = 700
 screen = pygame.display.set_mode((width, height))
