@@ -1,0 +1,1 @@
+﻿with open('task.txt') as f:d = dict(x.rstrip().split(" ", 1) for x in f);print(d)
